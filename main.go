@@ -1,5 +1,13 @@
 package main
 
+import (
+	"log"
+	"os"
+
+	"github.com/line/line-bot-sdk-go/linebot"
+	"github.com/yuki0920/weather_line_bot_sample/weather"
+)
+
 func main() {
 
 	// LINE Botクライアント生成する
