@@ -4,7 +4,6 @@ package weather
  	"encoding/json"
  	"fmt"
  	"io"
- 	"log"
  	"net/http"
  )
 
