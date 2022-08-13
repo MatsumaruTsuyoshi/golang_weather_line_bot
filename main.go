@@ -1,3 +1,5 @@
+package main
+
 func main() {
 
 	// LINE Botクライアント生成する
